@@ -1,0 +1,25 @@
+Jan 10: Began working.
+-Created layout
+
+Jan 13: Created monster class
+-defined functions
+-random type button working
+-included ability to have secondary type
+-animal/object generator working(list need to be expanded, needs more variety)
+
+Jan 15:
+-stat generator working
+
+Jan 17:
+-palette gen working now
+-test exe created
+
+Jan 21:
+-design changes
+-still need to find exe bugs
+
+Jan 24:
+-added way to export results
+-made second exe
+
+
